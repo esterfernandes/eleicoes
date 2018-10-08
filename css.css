@@ -1,0 +1,31 @@
+div.porcen-inicio{
+	float: right;
+}
+
+div img
+{ 
+	border-radius: 50%;
+	float: left;
+	width: 90px;
+}
+
+
+div.info
+{
+	float: left;
+}
+
+div.info p{
+	color: gray;
+}
+div.votos
+{
+	float: right;
+}
+
+div.progress{
+	margin-top: 50px
+}
+div.votos p{
+	color: gray;
+}
