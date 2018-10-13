@@ -2,6 +2,9 @@ a  h3{
 	float: center;
 }
 
+form button{
+	float: right;
+}
 div.porcen-inicio{
 	float: right;
 }
@@ -16,7 +19,7 @@ div img
 
 div.info
 {
-	float: left;
+	
 }
 
 div.info p{
@@ -26,6 +29,8 @@ div.votos
 {
 	float: right;
 }
+
+
 
 div.progress{
 	margin-top: 50px
