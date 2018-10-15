@@ -1,6 +1,3 @@
-a  h3{
-	float: center;
-}
 
 form button{
 	float: right;
@@ -16,12 +13,6 @@ div img
 	width: 90px;
 }
 
-
-div.info
-{
-	
-}
-
 div.info p{
 	color: gray;
 }
@@ -29,8 +20,6 @@ div.votos
 {
 	float: right;
 }
-
-
 
 div.progress{
 	margin-top: 50px
