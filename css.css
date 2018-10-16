@@ -5,7 +5,9 @@ form button{
 div.porcen-inicio{
 	float: right;
 }
-
+div.opaco{
+	opacity: 0.5;
+}
 div img
 { 
 	border-radius: 50%;
